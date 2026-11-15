@@ -1,4 +1,6 @@
-Instructions
+scans rubix cube using cv2 and solves using kociemba
+
+**_ Instructions _**
 press Q to end the program
 press S to scan the cube
 press F to solve/fix once the 6 sides have been scanned
